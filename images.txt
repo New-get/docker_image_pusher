@@ -4,7 +4,8 @@
 #xhofe/alist:latest
 #whyour/qinglong:latest
 #whyour/qinglong:2.10.13
-IceWhaleTech/CasaOS
+#IceWhaleTech/CasaOS
+dyfsvip/pandas
 #支持指定架构
 #--platform=linux/arm/v7 whyour/qinglong:2.10.13
 #--platform=linux/arm/v7 whyour/qinglong:latest
